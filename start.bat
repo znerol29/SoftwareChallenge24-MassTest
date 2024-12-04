@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -Dlogback.configurationFile=logback.xml -jar server.jar > 0log\lastTests.log 2>&1 
